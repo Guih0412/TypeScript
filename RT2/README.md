@@ -10,5 +10,4 @@ O projeto tem como objetivo desenvolver uma calculadora orientada a objetos em T
 - Compile o TypeScript:
   ``npx tsc``
 
-- Execute o código compilado:   
-  ``node out/main.js`` 
+- Execute o código compilado:  ``node out/main.js`` 
