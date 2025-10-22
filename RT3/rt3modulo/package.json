@@ -1,0 +1,16 @@
+{
+  "name": "rt3modulo",
+  "version": "1.0.0",
+  "description": "Módulo de calculadora em TypeScript",
+  "type": "module",
+  "main": "out/calculadora.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
